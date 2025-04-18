@@ -1,0 +1,292 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\LeThiThuyNgan-2122110016\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{39D1BA57-15EC-4C59-88B4-64F161FBC1B6}|LeThiThuyNgan-2122110016.csproj|d:\\lethithuyngan-2122110016\\controllers\\authendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39D1BA57-15EC-4C59-88B4-64F161FBC1B6}|LeThiThuyNgan-2122110016.csproj|solutionrelative:controllers\\authendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39D1BA57-15EC-4C59-88B4-64F161FBC1B6}|LeThiThuyNgan-2122110016.csproj|d:\\lethithuyngan-2122110016\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39D1BA57-15EC-4C59-88B4-64F161FBC1B6}|LeThiThuyNgan-2122110016.csproj|solutionrelative:model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39D1BA57-15EC-4C59-88B4-64F161FBC1B6}|LeThiThuyNgan-2122110016.csproj|d:\\lethithuyngan-2122110016\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39D1BA57-15EC-4C59-88B4-64F161FBC1B6}|LeThiThuyNgan-2122110016.csproj|solutionrelative:model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39D1BA57-15EC-4C59-88B4-64F161FBC1B6}|LeThiThuyNgan-2122110016.csproj|d:\\lethithuyngan-2122110016\\model\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39D1BA57-15EC-4C59-88B4-64F161FBC1B6}|LeThiThuyNgan-2122110016.csproj|solutionrelative:model\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39D1BA57-15EC-4C59-88B4-64F161FBC1B6}|LeThiThuyNgan-2122110016.csproj|d:\\lethithuyngan-2122110016\\model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39D1BA57-15EC-4C59-88B4-64F161FBC1B6}|LeThiThuyNgan-2122110016.csproj|solutionrelative:model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39D1BA57-15EC-4C59-88B4-64F161FBC1B6}|LeThiThuyNgan-2122110016.csproj|d:\\lethithuyngan-2122110016\\model\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39D1BA57-15EC-4C59-88B4-64F161FBC1B6}|LeThiThuyNgan-2122110016.csproj|solutionrelative:model\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39D1BA57-15EC-4C59-88B4-64F161FBC1B6}|LeThiThuyNgan-2122110016.csproj|d:\\lethithuyngan-2122110016\\model\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39D1BA57-15EC-4C59-88B4-64F161FBC1B6}|LeThiThuyNgan-2122110016.csproj|solutionrelative:model\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39D1BA57-15EC-4C59-88B4-64F161FBC1B6}|LeThiThuyNgan-2122110016.csproj|d:\\lethithuyngan-2122110016\\model\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39D1BA57-15EC-4C59-88B4-64F161FBC1B6}|LeThiThuyNgan-2122110016.csproj|solutionrelative:model\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39D1BA57-15EC-4C59-88B4-64F161FBC1B6}|LeThiThuyNgan-2122110016.csproj|d:\\lethithuyngan-2122110016\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39D1BA57-15EC-4C59-88B4-64F161FBC1B6}|LeThiThuyNgan-2122110016.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39D1BA57-15EC-4C59-88B4-64F161FBC1B6}|LeThiThuyNgan-2122110016.csproj|d:\\lethithuyngan-2122110016\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39D1BA57-15EC-4C59-88B4-64F161FBC1B6}|LeThiThuyNgan-2122110016.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39D1BA57-15EC-4C59-88B4-64F161FBC1B6}|LeThiThuyNgan-2122110016.csproj|d:\\lethithuyngan-2122110016\\auth\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39D1BA57-15EC-4C59-88B4-64F161FBC1B6}|LeThiThuyNgan-2122110016.csproj|solutionrelative:auth\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39D1BA57-15EC-4C59-88B4-64F161FBC1B6}|LeThiThuyNgan-2122110016.csproj|d:\\lethithuyngan-2122110016\\auth\\jwtsetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39D1BA57-15EC-4C59-88B4-64F161FBC1B6}|LeThiThuyNgan-2122110016.csproj|solutionrelative:auth\\jwtsetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39D1BA57-15EC-4C59-88B4-64F161FBC1B6}|LeThiThuyNgan-2122110016.csproj|d:\\lethithuyngan-2122110016\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39D1BA57-15EC-4C59-88B4-64F161FBC1B6}|LeThiThuyNgan-2122110016.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39D1BA57-15EC-4C59-88B4-64F161FBC1B6}|LeThiThuyNgan-2122110016.csproj|d:\\lethithuyngan-2122110016\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{39D1BA57-15EC-4C59-88B4-64F161FBC1B6}|LeThiThuyNgan-2122110016.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39D1BA57-15EC-4C59-88B4-64F161FBC1B6}|LeThiThuyNgan-2122110016.csproj|d:\\lethithuyngan-2122110016\\lethithuyngan-2122110016.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{39D1BA57-15EC-4C59-88B4-64F161FBC1B6}|LeThiThuyNgan-2122110016.csproj|solutionrelative:lethithuyngan-2122110016.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39D1BA57-15EC-4C59-88B4-64F161FBC1B6}|LeThiThuyNgan-2122110016.csproj|d:\\lethithuyngan-2122110016\\lethithuyngan-2122110016.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{39D1BA57-15EC-4C59-88B4-64F161FBC1B6}|LeThiThuyNgan-2122110016.csproj|solutionrelative:lethithuyngan-2122110016.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "D:\\LeThiThuyNgan-2122110016\\Model\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "Model\\LoginRequest.cs",
+              "ToolTip": "D:\\LeThiThuyNgan-2122110016\\Model\\LoginRequest.cs",
+              "RelativeToolTip": "Model\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T01:52:47.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\LeThiThuyNgan-2122110016\\Model\\Order.cs",
+              "RelativeDocumentMoniker": "Model\\Order.cs",
+              "ToolTip": "D:\\LeThiThuyNgan-2122110016\\Model\\Order.cs",
+              "RelativeToolTip": "Model\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T02:52:03.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "D:\\LeThiThuyNgan-2122110016\\Model\\OrderItem.cs",
+              "RelativeDocumentMoniker": "Model\\OrderItem.cs",
+              "ToolTip": "D:\\LeThiThuyNgan-2122110016\\Model\\OrderItem.cs",
+              "RelativeToolTip": "Model\\OrderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T01:54:15.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\LeThiThuyNgan-2122110016\\Model\\Product.cs",
+              "RelativeDocumentMoniker": "Model\\Product.cs",
+              "ToolTip": "D:\\LeThiThuyNgan-2122110016\\Model\\Product.cs",
+              "RelativeToolTip": "Model\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T02:15:36.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\LeThiThuyNgan-2122110016\\Model\\User.cs",
+              "RelativeDocumentMoniker": "Model\\User.cs",
+              "ToolTip": "D:\\LeThiThuyNgan-2122110016\\Model\\User.cs",
+              "RelativeToolTip": "Model\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T02:11:27.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthEndpoints.cs",
+              "DocumentMoniker": "D:\\LeThiThuyNgan-2122110016\\Controllers\\AuthEndpoints.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthEndpoints.cs",
+              "ToolTip": "D:\\LeThiThuyNgan-2122110016\\Controllers\\AuthEndpoints.cs",
+              "RelativeToolTip": "Controllers\\AuthEndpoints.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T01:42:37.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\LeThiThuyNgan-2122110016\\Model\\Category.cs",
+              "RelativeDocumentMoniker": "Model\\Category.cs",
+              "ToolTip": "D:\\LeThiThuyNgan-2122110016\\Model\\Category.cs",
+              "RelativeToolTip": "Model\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T00:59:03.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Brand.cs",
+              "DocumentMoniker": "D:\\LeThiThuyNgan-2122110016\\Model\\Brand.cs",
+              "RelativeDocumentMoniker": "Model\\Brand.cs",
+              "ToolTip": "D:\\LeThiThuyNgan-2122110016\\Model\\Brand.cs",
+              "RelativeToolTip": "Model\\Brand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T01:45:47.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\LeThiThuyNgan-2122110016\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "D:\\LeThiThuyNgan-2122110016\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T02:14:48.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\LeThiThuyNgan-2122110016\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\LeThiThuyNgan-2122110016\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T01:43:34.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "D:\\LeThiThuyNgan-2122110016\\Auth\\TokenService.cs",
+              "RelativeDocumentMoniker": "Auth\\TokenService.cs",
+              "ToolTip": "D:\\LeThiThuyNgan-2122110016\\Auth\\TokenService.cs",
+              "RelativeToolTip": "Auth\\TokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T01:37:55.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "JwtSetting.cs",
+              "DocumentMoniker": "D:\\LeThiThuyNgan-2122110016\\Auth\\JwtSetting.cs",
+              "RelativeDocumentMoniker": "Auth\\JwtSetting.cs",
+              "ToolTip": "D:\\LeThiThuyNgan-2122110016\\Auth\\JwtSetting.cs",
+              "RelativeToolTip": "Auth\\JwtSetting.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T01:37:30.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\LeThiThuyNgan-2122110016\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\LeThiThuyNgan-2122110016\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T02:16:30.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\LeThiThuyNgan-2122110016\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\LeThiThuyNgan-2122110016\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-28T03:37:56.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LeThiThuyNgan-2122110016.http",
+              "DocumentMoniker": "D:\\LeThiThuyNgan-2122110016\\LeThiThuyNgan-2122110016.http",
+              "RelativeDocumentMoniker": "LeThiThuyNgan-2122110016.http",
+              "ToolTip": "D:\\LeThiThuyNgan-2122110016\\LeThiThuyNgan-2122110016.http",
+              "RelativeToolTip": "LeThiThuyNgan-2122110016.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-04-18T02:01:24.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LeThiThuyNgan-2122110016.csproj",
+              "DocumentMoniker": "D:\\LeThiThuyNgan-2122110016\\LeThiThuyNgan-2122110016.csproj",
+              "RelativeDocumentMoniker": "LeThiThuyNgan-2122110016.csproj",
+              "ToolTip": "D:\\LeThiThuyNgan-2122110016\\LeThiThuyNgan-2122110016.csproj",
+              "RelativeToolTip": "LeThiThuyNgan-2122110016.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-28T02:11:57.055Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
